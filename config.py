@@ -78,7 +78,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/05ac57896aa432324a894.jpg"
+    "START_IMG_URL", "https://graph.org/file/1d5ba275d01d0e3446fab.jpg"
 )
 VIDEO_PATH_URL = "https://graph.org/file/7fd7aa71aa57a235a8944.mp4"
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/5201ab36a1954484a3150.jpg"
